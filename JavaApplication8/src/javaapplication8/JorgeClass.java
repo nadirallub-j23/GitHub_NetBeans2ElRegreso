@@ -20,7 +20,7 @@ public class JorgeClass {
        return promedio;
    }
    /**
-    * Evaluar la nota obtenida y si supera un 7 aplicar un extra del 15%
+    * Evaluar la nota obtenida y si supera un 7 aplicaremos un extra del 15%
     * @param promedio el valor del resultado obtenido en el metodo anterior
     * @return Un String diciendo: Apto/No apto y la nota final.
     */

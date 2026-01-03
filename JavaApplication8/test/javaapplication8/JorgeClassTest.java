@@ -37,7 +37,7 @@ public class JorgeClassTest {
         String expResult = "NO APTO. NOTA: "+promedio;
         String result = instance.conclusionFinal(promedio);
         assertEquals(expResult, result);
-     
+        
     }
     
 }
