@@ -20,9 +20,9 @@ public class JavaApplication8 {
         
         System.out.print("Introduce la primera nota: ");
         float n1 = teclado.nextFloat();
-        System.out.println("Introduce la segunda nota: ");
+        System.out.print("Introduce la segunda nota: ");
         float n2 = teclado.nextFloat();
-        System.out.println("Introduce la tercera nota: ");
+        System.out.print("Introduce la tercera nota: ");
         float n3 = teclado.nextFloat();
         
         float promedio = jorge.promedioNota(n1, n2, n3);
